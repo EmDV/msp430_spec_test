@@ -5,12 +5,9 @@ resources:
     format: number
 -   alias: usrsw2
     format: number
--   alias: jtemp
+-   alias: temp
     format: number
 -   alias: ontime
     format: number
--   alias: ledd1
+-   alias: led
     format: string
--   alias: email_addr
-    format: string
-
